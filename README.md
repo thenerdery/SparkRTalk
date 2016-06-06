@@ -33,7 +33,7 @@ R Studio, R Studio Server on EMR, Distributed Data Frames, Machine Learning, SQL
 Use for bootstrap step to initialize rstudio user on each node in the cluster
 
 #### prepare_r.sh
-Bash script to example on how to load data, install R Studio Server and scripts.
+Bash script example on how to load data, install R Studio Server and scripts.
 
 #### bigdata2016.R
 R script used for tutorial.
